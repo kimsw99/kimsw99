@@ -7,17 +7,10 @@ I'm continuously working towards becoming an AI Engineer, actively learning vari
 
 **Programming Languages**
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="24"/>
-  <strong>Python</strong>
+<p><strong>Python</strong> <code>70%</code></p>
+<div style="background-color: #e0e0e0; border-radius: 10px; width: 200px; height: 10px;">
+  <div style="background-color: #9b61d3; width: 70%; height: 100%; border-radius: 10px;"></div>
 </div>
-
-<div style="background-color: #ddd; border-radius: 5px; width: 100%; height: 10px;">
-  <div style="width: 70%; height: 100%; background: linear-gradient(90deg, #a78bfa, #6b21a8); border-radius: 5px;"></div>
-</div>
-<p style="font-size: 14px;">70%</p>
-
-
 
 **Libraries and Frameworks**
 
