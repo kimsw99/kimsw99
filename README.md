@@ -7,10 +7,11 @@ I'm continuously working towards becoming an AI Engineer, actively learning vari
 
 **Programming Languages**
 
-<p><strong>Python</strong> <code>70%</code></p>
+<p><strong><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align:middle; height: 24px;"></strong> <code>70%</code></p>
 <div style="background-color: #e0e0e0; border-radius: 10px; width: 200px; height: 10px;">
   <div style="background-color: #9b61d3; width: 70%; height: 100%; border-radius: 10px;"></div>
 </div>
+
 
 **Libraries and Frameworks**
 
