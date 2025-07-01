@@ -15,7 +15,7 @@ I'm continuously working towards becoming an AI Engineer, actively learning vari
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
 
-**Tools**
+**🛠 Tools 🛠**
 
 ![Visaul Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
